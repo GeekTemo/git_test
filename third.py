@@ -7,3 +7,4 @@ if __name__ == '__main__':
 	print '4 modify'
 	print '5 modify'
 	print '6 modify'
+	print 'master modify'
